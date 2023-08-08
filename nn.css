@@ -1,0 +1,38 @@
+.container{
+ 
+    text-align: center;
+    margin-top:250px;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+  }
+  body{
+    background-image:url("pw.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .msg{
+    text-align: center;
+    font-size: larger;
+  }
+  .btn{
+    font-size:medium;
+    text-align: center;
+   
+  }
+  .op{
+    text-align: center;
+    font-size: larger;
+  }
+  #submit{
+    padding: 10px;
+}
+input[type=text]{
+    background-color:rgb(168, 187, 217);
+}
+input[type=text]:hover{
+    background-color:rgb(144, 166, 225);
+}
+#click:hover {
+  background-color: rgb(142, 165, 234);
+}
+
